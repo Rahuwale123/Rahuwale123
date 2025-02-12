@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Rahuwale
+- 👋 Hi, I’m @Rahulwale
 - 👀 I’m interested in ... AI and Robotics
 - 🌱 I’m currently learning ... Python as well as node js and some other languages like flutter,c.
 - 💞️ I’m looking to collaborate on ... any unique project about AI or bots related programs
